@@ -11,7 +11,7 @@ I am Farhan Toshi, currently a foreign student in Japan majoring in Digital Busi
 ### Python
 | Projects | Description | Libraries |
 | :------: | ----------- | --------- |
-| [Toxic Comment Detector](https://github.com/farhantoshi/toxic_comment_group2) | A project that my teammates and I came up with during a college course. We took a pre-trained text classification model from [Hugging Face](https://huggingface.co/martin-ha/toxic-comment-model) and used a dataset from [Kaggle](https://www.kaggle.com/datasets/reihanenamdari/youtube-toxicity-data) to train the model. | Pandas, Transformers, Datasets, Torch, Matplotlib, tqdm, NumPy, Emoji, re, sklearn, seaborn |
-|   |   |
+| [Toxic Comment Detector](https://github.com/farhantoshi/toxic_comment_group2) | Can we use pre-trained models to detect toxic comments?🔞 This is the second project I did during a Python course in college. My teammates and I took a pre-trained text classification model from [Hugging Face](https://huggingface.co/martin-ha/toxic-comment-model) and used a dataset from [Kaggle](https://www.kaggle.com/datasets/reihanenamdari/youtube-toxicity-data) to train the model to detect toxic comments. (EDA, Machine Learning & AI) | pandas, transformers, datasets, torch, matplotlib, tqdm, numpy, emoji, re, sklearn, seaborn |
+| [Tobacco Use Prevalence](https://github.com/farhantoshi/F23-Python-Presentation) | Does tobacco have anything to do with GDP per capita, alcohol, or gender?🚬 This is the first project I did during a Python course in college. My teammates and I gathered data from the World Bank APIs and did some EDA to further analyze the correlation between tobacco use prevalence, countries' economic state, gender, and alcohol use. (EDA) | wbdata, pandas, plotly, matplotlib, seaborn, numpy |
 |   |   |
 |   |   |
