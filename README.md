@@ -11,7 +11,7 @@ I am Farhan Toshi, currently a foreign student in Japan majoring in Digital Busi
 ### Python
 | Projects | Description | Libraries |
 | :------: | ----------- | --------- |
-| [Toxic Comment Detector](https://github.com/farhantoshi/toxic_comment_group2) | A project that my teammates and I came up with during a college course. We took a pre-trained text classification model from [Hugging Face]([https://huggingface.co/](https://huggingface.co/martin-ha/toxic-comment-model)) and used a dataset from [Kaggle](https://www.kaggle.com/datasets/reihanenamdari/youtube-toxicity-data) to train the model. | Pandas, Transformers, Datasets, Torch, Matplotlib, tqdm, NumPy, Emoji, re, sklearn, seaborn |
+| [Toxic Comment Detector](https://github.com/farhantoshi/toxic_comment_group2) | A project that my teammates and I came up with during a college course. We took a pre-trained text classification model from [Hugging Face](https://huggingface.co/martin-ha/toxic-comment-model) and used a dataset from [Kaggle](https://www.kaggle.com/datasets/reihanenamdari/youtube-toxicity-data) to train the model. | Pandas, Transformers, Datasets, Torch, Matplotlib, tqdm, NumPy, Emoji, re, sklearn, seaborn |
 |   |   |
 |   |   |
 |   |   |
