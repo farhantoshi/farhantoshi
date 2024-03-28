@@ -13,3 +13,5 @@ I am Farhan Toshi, currently a foreign student in Japan majoring in Digital Busi
 | -------- | ----------- | --------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
