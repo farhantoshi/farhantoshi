@@ -11,7 +11,7 @@ I am Farhan Toshi, currently a foreign student in Japan majoring in Digital Busi
 # Python
 | Projects  | Description | Libraries |
 | -------- | ----------- | --------- |
-| [Toxic Comment Detector](https://github.com/farhantoshi/toxic_comment_group2) | Pandas, Transformers, Datasets, Torch, Matplotlib, tqdm, NumPy, Emoji, re, sklearn, seaborn |
+| [Toxic Comment Detector](https://github.com/farhantoshi/toxic_comment_group2) |  | Pandas, Transformers, Datasets, Torch, Matplotlib, tqdm, NumPy, Emoji, re, sklearn, seaborn |
 |   |   |
 |   |   |
 |   |   |
