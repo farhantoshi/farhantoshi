@@ -9,9 +9,9 @@ I am Farhan Toshi, currently a foreign student in Japan majoring in Digital Busi
 
 ## Portfolio Map
 # Python
-| Project  | Description | Libraries |
+| Projects  | Description | Libraries |
 | -------- | ----------- | --------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
