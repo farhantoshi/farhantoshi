@@ -13,7 +13,7 @@ I am **Farhan Toshi**, currently a foreign student in Japan majoring in Digital 
 | :------: | ----------- | --------- |
 | [Toxic Comment Detector](https://github.com/farhantoshi/toxic_comment_group2) | Can we use pre-trained models to detect toxic comments?🔞 - During one of my Python courses in college, I collaborated with my teammates and began utilizing a pre-trained classification model sourced from [Hugging Face](https://huggingface.co/martin-ha/toxic-comment-model), accompanied by a dataset from [Kaggle](https://www.kaggle.com/datasets/reihanenamdari/youtube-toxicity-data). Our objective was to fine-tune the model's capabilities in identifying toxic comments. (EDA, Machine Learning & AI) | pandas, transformers, torch, matplotlib, numpy, seaborn |
 | [Country's Economy, Tobacco, Alcohol, and Gender](https://github.com/farhantoshi/F23-Python-Presentation) | Does tobacco have anything to do with GDP per capita, alcohol, or gender?🚬 - During one of my Python courses in college, my group dived into data retrieval from the World Bank APIs. We conducted EDA to investigate the correlation between multiple variables such as tobacco use prevalence, GDP per capita, gender, and alcohol consumption. (EDA) | pandas, plotly, matplotlib, seaborn, numpy |
-| [Miscellaneous](https://github.com/farhantoshi/misc._projects/tree/main/Python)| Repository of other smaller projects and exercises I've done throughout my journey.  | Various Libraries (pandas, nltk, seaborn, openai, etc. |
+| [Miscellaneous](https://github.com/farhantoshi/misc._projects/tree/main/Python)| Repository of other smaller projects and exercises I've done throughout my journey.  | Various Libraries (pandas, nltk, seaborn, openai, etc.) |
 
 ### SQL
 | Projects | Area | Description |
