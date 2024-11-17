@@ -19,3 +19,9 @@ I am **Farhan Toshi**, currently a foreign student in Japan majoring in Digital 
 | :------: | ---- | ----------- |
 | | |
 | | |
+
+### [Cybersecurity](https://github.com/farhantoshi/kalilinux-tools)
+| Tools | Function | Documentation |
+| :------: | ---- | ----------- |
+| [Binary Analysis Next Generation (BANG)](https://github.com/farhantoshi/kalilinux-tools/tree/main/binaryanalysisnextgen)| Unpacking files, scanning, and identification of the files (Able to spot files that might have been tampered with). | [binaryanalysis-ng](https://github.com/armijnhemel/binaryanalysis-ng)|
+| | |
