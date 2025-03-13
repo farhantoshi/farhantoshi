@@ -1,10 +1,6 @@
 # Hello! 👋
 
-I am **Farhan Toshi**, currently a foreign student in Japan majoring in Digital Business & Innovation with an interest in Information and Technology.
-
-## More About Me
-- Always been a techie, starting with an interest in the creative industry and transitioning into codes, mostly in 2023.
-- A sucker for productivity apps, and it sparked when I first used Notion.
+I am **Farhan Toshi**, a recent Bachelor of Science in Digital Business and Innovation with experience in Data Analysis tools (Python, Tableau) and an interest in Cybersecurity.
 
 ## Portfolio Map
 ### Python
@@ -23,5 +19,5 @@ I am **Farhan Toshi**, currently a foreign student in Japan majoring in Digital 
 ### [Cybersecurity](https://github.com/farhantoshi/kalilinux-tools)
 | Tools | Function | Documentation |
 | :------: | ---- | ----------- |
-| [Binary Analysis Next Generation (BANG)](https://github.com/farhantoshi/kalilinux-tools/tree/main/binaryanalysisnextgen)| Unpacking files, scanning, and identification of the files (Able to spot files that might have been tampered with). | [binaryanalysis-ng](https://github.com/armijnhemel/binaryanalysis-ng)|
+| [Binary Analysis Next Generation (BANG)](https://github.com/farhantoshi/kalilinux-tools/tree/main/binaryanalysisnextgen)| Unpacking files, scanning, and identification of the files (to identify files that might have been tampered with). | [binaryanalysis-ng](https://github.com/armijnhemel/binaryanalysis-ng)|
 | | |
