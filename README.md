@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am **Farhan Toshi**, a recent Bachelor of Science in Digital Business and Innovation with experience in Data Analysis tools (Python, Tableau) and an interest in Cybersecurity.
+I am **Farhan Toshi**, a recent Bachelor of Science in Digital Business and Innovation with experience in Data Analysis and an interest in Cybersecurity.
 
 ## Portfolio Map
 ### Python
